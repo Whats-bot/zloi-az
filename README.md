@@ -10,7 +10,7 @@
 En caso de duda, antes de instalar CuriosityBot-MD, pruebe el bot aquí
 
 <a href="https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH">
-  <img src="https://img.shields.io/badge/CuriosityBot-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <img src="https://img.shields.io/badge/ZloiBoT-MD-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 ***
