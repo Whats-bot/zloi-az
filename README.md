@@ -1,7 +1,7 @@
 ## ZloiBoT-MD ✨
 
 <p align="center">
-<img src="https://imageup.ru/img86/4691260/ava.jpg" alt="ZloiBoT-MD" width="900"/>
+<img src="https://imageup.ru/img86/4691260/ava.jpg" alt="ZloiBoT-MD" width="500"/>
 </p>
 
 
